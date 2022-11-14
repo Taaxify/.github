@@ -1,6 +1,6 @@
 # Taaxify
 
-Your affordable Taxi hailing app.
+Book Rides Anywhere
 
 ## About Us
 
